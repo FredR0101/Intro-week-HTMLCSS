@@ -76,7 +76,6 @@ a:active {
 .NavBar {
     background-color: rgb(248, 116, 64);
     display: block;
-    /* overflow: hidden; */
     padding: 5px
 }
 
