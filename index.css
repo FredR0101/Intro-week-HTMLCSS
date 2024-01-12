@@ -1,0 +1,52 @@
+body {
+    background-color: burlywood;
+}
+
+.banner {
+    width: 65%;
+    height: 300px;
+    padding-left: 13%;
+    padding-top: 0%;
+    padding-right: 14%;
+    padding-bottom: 1%;
+}
+
+.logo {
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 43%;
+    margin-bottom: auto;
+    border: 5px solid #9c7b7b;
+}
+
+h1 {
+    font-family: papyrus;
+    text-align: center;
+}
+
+h2, h3 {
+    font-family: papyrus;
+    font-size: larger;
+}
+
+ul, ol {
+    color: rgb(56, 143, 224);
+}
+
+a {
+    font-size: small;
+}
+
+.table-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: brown;
+    padding: 10px;
+}
+
+.grid-item {
+    background-color: lightsalmon;
+    text-align: center;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 10px;
+}
